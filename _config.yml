@@ -1,10 +1,10 @@
 # Site settings
 title: OCTAS.SPACE
 description: "OCTAS.SPACE"
-url: "http://www.jacoporabolini.com/emerald"
-author:
+url: "http://OCTAS.SPACE"
+author: OCTAVR
   name: "OCTAVR"
-  email: "necsta@hmail.com"
+  email: "necsta@gmail.com"
   url: "http://OCTAS.SPACE"
 
 # Build settings
